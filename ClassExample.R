@@ -1,5 +1,7 @@
 print("Hello World")
 
+paste(1:9,"counting",sep=" ")
+
 
 print("A new line")
 
